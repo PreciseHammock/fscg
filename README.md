@@ -16,9 +16,14 @@ The absolute bare minimum: Any word processor. fscg was developed in OpenOffice 
 
 # Recommended tools
 
-* [MakeMKV](https://makemkv.com/) (Blu-rays archival)
-* [VLC](https://www.videolan.org/vlc/) (DVD archival)
+* [MakeMKV](https://makemkv.com/) (Blu-ray/DVD archival)
+* [VLC](https://www.videolan.org/vlc/) (DVD archival, media player)
 * [ffmpeg](https://ffmpeg.org/) (to make use of the output)
+
+# Other recommended resources
+
+* [mpv](https://mpv.io/) (media player)
+* [FindVUK Online Database](http://fvonline-db.bplaced.net/) (Blu-ray playback helper) 
 
 # Limitations
 
