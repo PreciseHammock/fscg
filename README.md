@@ -14,6 +14,9 @@ Yes, indeed. While fscg is primarily targeted at Linux users, the development of
 
 The absolute bare minimum: Any word processor. fscg was developed in OpenOffice and is stored in the OpenDocument standard that is going strong since 2005.
 
+100% compatibility has been verified with:
+* GoogleDocs (2024-08-12)
+
 # Recommended tools
 
 * [MakeMKV](https://makemkv.com/) (Blu-ray/DVD archival)
