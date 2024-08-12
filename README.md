@@ -12,7 +12,7 @@ Yes, indeed. While fscg is primarily targeted at Linux users, the development of
 
 # Prerequisites to run fscg
 
-The absolute bare minimum: Any word processor. fscg was developed in OpenOffice and is stored in the OpenDocument standard that is going strong since 2005.
+The absolute bare minimum: Any word processor. fscg was developed in LibreOffice and is stored in the OpenDocument standard that is going strong since 2005.
 
 100% compatibility has been verified with:
 * GoogleDocs (2024-08-12)
