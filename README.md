@@ -4,7 +4,7 @@ Format Shift Command Generator for ffmpeg.
 
 # Purpose
 
-This small utility aims to simplify ffmpeg command generation to help with format shifting/archival Blu-rays and DVDs.
+This small utility aims to simplify ffmpeg command creation to aid format shifting/archival of Blu-rays and DVDs.
 
 # Spreadsheet?!
 
