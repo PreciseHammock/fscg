@@ -14,8 +14,11 @@ Yes, indeed. While fscg is primarily targeted at Linux users, the development of
 
 The absolute bare minimum: Any word processor. fscg was developed in LibreOffice and is stored in the OpenDocument standard that is going strong since 2005.
 
-100% compatibility has been verified with:
+Compatibility has been verified with:
 * GoogleDocs (2024-08-12)
+    * Minor conditional formatting issues observed.
+* Microsoft Office (2024-08-15)
+    * Minor conditional formatting issues observed.
 
 # Recommended tools
 
